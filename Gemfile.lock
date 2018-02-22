@@ -30,6 +30,7 @@ GEM
     octopress-autoprefixer (2.0.0)
       autoprefixer-rails
       jekyll (~> 3.0)
+    rake (12.0.0)
     rb-fsevent (0.9.6)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -44,6 +45,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   octopress-autoprefixer
+  rake
 
 BUNDLED WITH
-   1.10.6
+   1.15.4
