@@ -1,51 +1,66 @@
 ---
 layout: post
-title: "Craft Beer"
+title: "Il Paese più felice del mondo"
 date: 2016-02-19
 categories:
   - Juice
 description:
-image: https://picsum.photos/2000/1200?image=1003
+image: ../../../assets/images/cup-tea.jpg
 image-sm: https://picsum.photos/500/300?image=1003
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+Circa un anno e mezzo fa decisi di trascorrere un weekend a Copenhagen dopo essermi imbattuta in un pezzo dell’Huffington Post UK che riprendeva la classifica del World Happiness Report: ancora una volta  la Danimarca  veniva incoronata “Paese più felice del mondo”. Non il più ricco, il più industrializzato o istruito. Ma il più FELICE.
+Così parto per Copenhagen (anche definita da Monocle come “città più vivibile”) curiosa ed elettrizzata di incontrare questo popolo che ha scoperto l’equazione della felicità. E lo faccio con le parole di Bobby Kennedy che mi ronzano in testa:
 
-<ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ul>
+“Il PIL non tiene conto della salute delle nostre famiglie, della qualità della loro educazione o della gioia dei momenti di svago. Non comprende la bellezza della poesia o la solidità dei valori familiari, l'intelligenza del nostro dibattere o l'onestà dei pubblici dipendenti.  Misura tutto, eccetto ciò che rende la vita degna di essere vissuta.”
 
-<ol>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ol>
+Dopo aver visitato, vissuto e sofferto il freddo di questo splendido Paese, posso assicurarvi che quarant’anni dopo, lassù nello Jutland, c’è chi ha finalmente compreso il senso di queste parole.
 
-<h3>Subway tile</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
+###Danesi felici
 
-<figure>
-  <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
-</figure>
+In Danimarca a far notizia è quando il Paese non è al primo posto nei sondaggi su benessere e livello di soddisfazione e non il contrario: e qui mi viene il mente il Bel Paese...
+Ma è difficile essere “felici” se non si ha un lavoro, un’assicurazione sanitaria o la possibilità di seguire le proprie aspirazioni. Uno dei motivi per i quali la Danimarca guadagna da sempre la prima posizione di questi particolari sondaggi è certamente il suo Welfare State.
+I danesi crescono sapendo di avere diritto a cure mediche e istruzione. Gli studenti universitari ricevono uno stipendio mensile, mentre i neo genitori hanno diritto ad un anno di congedo parentale retribuito, comprese le coppie omosessuali. Benefit relativamente generosi come quello per la disoccupazione costituiscono, inoltre, misure molto significative per i segmenti più deboli della società, che risultano quindi in Danimarca più felici che negli altri Paesi ricchi.
+Vi è, inoltre, in Danimarca un alto livello di fiducia: non è inusuale vedere passeggini fuori dai cafè mentre i genitori sono dentro a far colazione.
+Tutti questi fattori, insieme ad un buona governance e un buon funzionamento della società civile rendono, tuttavia, la Danimarca abbastanza omogenea agli altri paesi “nordici”, anch’essi sempre ben posizionati in quanto benessere e felicità.
 
-Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
+Ma a fare della Danimarca un “unicuum della felicità” è un simpatico vocabolo coniato dai danesi stessi: hygge.
+Parliamo di una parola non letteralmente traducibile in altri idiomi che racchiude in sè un universo culturale.
+** In inglese si è provato a tradurre hygge con coziness, e talora con togetherness. Ma hygge è questo e molto di più. È un modo semplice e unico di guardare alla vita che mi ha spalancato un mondo.
+Lo hygge è strettamente legato alla felicità perseguita giorno per giorno, e molte delle sue componenti chiave  conducono alla scoperta della gioia che si trae dalle piccole cose.
 
-<blockquote>
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-  <cite>Man braid</cite>
-</blockquote>
 
-<h4>Subway tile</h4>
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
+###Hygge come fare network
 
-<figure>
-  <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
-  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
-</figure>
+Una ragione ulteriore dell’alto livello di felicità in Danimarca è l’equilibrio tra vita privata e lavoro. Come confermato dai dati dell’OECD Better life Index, i danesi hanno molto piu tempo libero degli altri membri del OECD.
+Sebbene le politiche sociali attuate siano fondamentali in tal senso, tuttavia anche il legame tra relazioni sociali, hygge e felicità non può essere sottovaluto: lo Hygge praticato dai danesi favorisce di fatto le relazioni sociali e lo fa in modo del tutto particolare.
+A metà del secolo scorso lo psicologo russo-americano Abraham Maslow propose un modello chiamato “Piramide dei bisogni umani” che chiarisce in modo esemplare quali i nostri bisogni primari e quale sia l’ordine con cui soddisfarli.
+Secondo la teoria di Maslow, i nostri bisogni procedono in modo piramidale, procedendo dalla base al vertice. I bisogni più elementari sono quelli fisiologici e la sicurezza, a cui si aggiungono subito dopo i bisogni sociali come l’affetto e il senso di appartenenza. Senza soddisfare i primi due piani della piramide sarà improbabile giungere in cima, verso l’autostima  e l’autorealizzazione.
+Nelle ultime decadi si sono moltiplicate le ricerche che dimostrano il legame profondo tra benessere e qualità delle relazioni sociali. Le persone più felici intrecciano migliori e maggiori rapporti sociali con familiari e amici e, allo stesso tempo, queste relazioni sono causa del loro benessere.
+Sviluppare un senso di appartenenza alla propria rete sociale influenza significativamente la nostra felicità ed è per questo che lo Hygge permette di conseguire alti livelli di soddisfacimento: in Danimarca vengono attuate non solo politiche che favoriscono l’interazione sociale ma si tratta soprattutto del fattore culturale e linguistico che viaggia in questa direzione. Questo fattore è lo hygge, che priorizza il tempo trascorso con coloro che amiamo coltivando rapporti di qualità.
 
-Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.
+###Praticare la gratitudine
 
-Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90's kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.
+Lo hygge, come tratto caratterizzante la cultura danese, è godere di ogni istante delle nostre giornate, traendo da esse il meglio e il massimo. È il solito vecchio clichè dell’ apprezzare ogni attimo che la vita ci dona, concentrandoci su ciò che abbiamo rispetto a quello che manca. Ciò nonostante, studi hanno dimostrato che praticare gratitudine ha impatto sulla nostra felicità.
+
+Una ricerca condotta dalla University of California ha definitivamente chiarito che coltivare il proprio senso di gratitudine apporta benefici fisici e sociali ed anche psicologici. È sorprendente come, chi tiene un diario settimanale sulle cose per cui si sente grato, riscontri poi maggiori emozioni positive, entusiasmo e altresì un miglioramento del sonno. Addirittura, le persone “grate” guariscono prima da malattie e soffrono meno lo stress.
+Praticare hygge significa anche praticare gratitudine nella vita di tutti i giorni. Assaporare ed essere grati per le piccole gioie quotidiane è quanto di più “hygge compatibile” possiamo sperimentare tra la pausa pranzo e una cena di lavoro.
+Mi preme però sottolineare che hygge è solo trarre il meglio dal “qui ed ora”, ma anche e pianificare e perseguire la propria felicità. I danesi sono soliti programmare il loro tempo hyggelig e amano parlarne e ricordarne aneddoti in compagnia. Questo perchè la nostalgia è parte integrante dello hygge: parlare di ricordi raccolti intorno al fuoco, sul balcone in vacanza o tirare in ballo ricordi estivi è inciampare nella nostalgia ed e hygge puro. Un ultimo dato: lo studio “Nostalgia: content, triggers” pubblicato su “Journal of Personality and social psychology” (nov 2006) ci rivela che la nostalgia produce sentimenti positivi e  rinforza i ricordi, il senso di essere amati e pure l’autostima.
+Quindi, è vero che hygge e felicità si basano sull’ apprezzare il presente, ma entrambi possono (e devono) essere pianificati e perseguiti, con buona pace del clichè del carpe diem.
+
+###Hygge come felicità quotidiana
+
+Sono in molti a mostrare scetticismo circa le reali possibilità di poter misurare la felicità. L’obiezione mossa  più di frequente lamenta il fatto che ciascuno di ogni ha una diversa percezione di cosa significhi “essere felici”, di qui l’estrema difficoltà di poter misurare un dato che ha ben poco di empirico e che si declina in tanti casi quante sono gli individui che popolano la Terra.
+Ma quando l’ Happiness Research Institute, Le Nazioni Unite  o l’OECD cercano di “misurare” e “quantificare” la qualità della vita, lo fanno prendendo in considerazione almeno tre dimensioni di felicità.
+
+1. Felicità = Livello di soddisfazione di vita. Ed in questa dimensione la Danimarca non manca di eccellere sondaggio dopo sondaggio.
+
+2. Dimensione affettiva della felicità, ovvero quel sentimento di contentezza che sperimentiamo nella quotidianità.
+
+3. Dimensione eudaimonica della felicità. È la felicità aristotelica che vuole dare un senso a alle cose che facciamo e volgerle ad un scopo.
+Tutti i sondaggi e le classifiche che indagano la formula della felicità non fanno che studiare cosa effettivamente influenzi queste tre dimensioni.
+Lo hygge danese prende abbraccia soprattutto la dimensione affettiva della felicità, a prescindere dalle altre due. Hygge è, infatti, quanto di più vicino può esserci alla felicità mentre torniamo a casa dal lavoro durante una fredda e piovosa giornata di gennaio.
+Benjamin franklin ha detto:
+
+“La felicità umana non è tanto il frutto di grandi colpi di fortuna che capitano raramente, quanto delle piccole soddisfazioni quotidiane”
+
+Adesso devo andare, ho i muffin in forno e amici in arrivo dalle Fiandre. Penso arrostiremo marshmallow e faremo qualche gioco da tavolo.
