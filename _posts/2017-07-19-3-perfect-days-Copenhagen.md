@@ -13,7 +13,7 @@ tags:
     - lego
     - christiania
     - travels
-image: /assets/images/cover-post-cop.jpg
+image: //allthesmalltrips.life/assets/images/cover-post-cop.jpg
 excerpt: 'It is said that Denmark is the happiest country in the world and, after you''ll have visited Copenhagen, you will also agree.'
 facebook: 'It is said that Denmark is the happiest country in the world and, after you''ll have visited Copenhagen, you will also agree.'
 ---  
