@@ -1,6 +1,6 @@
 # Site settings
 email: 
-baseurl: "https://enicasoldo.github.io/trophy-jekyll/"
+baseurl: "https://enicasoldo.github.io/trophy-jekyll"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
