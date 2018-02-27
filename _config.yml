@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: "Enica Soldo"
-profile_img:/assets/images/.jpg
+profile_img: /assets/images/.jpg
 profile:
 social:
   github:
