@@ -28,6 +28,8 @@ La parola _hygge_ è entrata ufficialmente a far parte del dizionario Inglese di
 
 ### La mia prima esperienza hyggelig
 
+![Momento hyggelig](/assets/images/hyggelig-time.jpg)
+
 Un giorno di settembre mi trovavo in un rifugio sulle _Wicklow Mountains_ dopo una lunga giornata di _hiking_.
 Pochi minuti prima che il sole tramontasse, una dolce pioggerellina autunnale era iniziata a scendere, creando un arcobaleno bellissimo. Appena fu del tutto buio, io ed i miei amici ci fiondammo dentro la baita, tutti rannichhiati attorno al fuoco.
 Eravamo esausti e assonnati, con ancora indosso maglioni _over-size_ e calzettoni di lana. Gli unici suoni che si potevano udire nella stanza erano il bollitore dell’acqua e lo scoppiettio della legna di castagno. Ad un certo punto, mentre sorseggiavamo vino caldo, fu Ray a rompere il silenzio.
