@@ -4,7 +4,7 @@ title: "Che cos'è la hygge?"
 date: 2018-02-23
 categories:
 description: "La hygge è un’esperienza, più che qualcosa di tangibile. C'è chi parla di **“piacevolezza dell’anima”**, e chi parla di _hygge_ dopo aver avuto una piacevole conversazione. _Hygge_ è tutto questo e molto di più"
-image: assets/images/hygge.jpg
+image: /assets/images/hygge.jpg
 image-sm: https://picsum.photos/500/300?image=1003
 ---
 È difficile spiegare in poche parole che cosa sia **l’arte danese della _hygge_** (pronunciato hoo-ga). La _hygge_ è un’atmosfera di intimità, un _mood_, un’esperienza, più che qualcosa di tangibile (sebbene sia fatta di tante piccole cose materiali).
@@ -32,7 +32,7 @@ La parola _hygge_ è entrata ufficialmente a far parte del dizionario Inglese di
 
 ![Momento hyggelig](/assets/images/hyggelig-time.jpg)
 
-Un giorno di settembre mi trovavo in un rifugio sulle _Wicklow Mountains_ dopo una lunga giornata di _hiking_.
+Un giorno di settembre, mi trovavo in un rifugio sulle _Wicklow Mountains_ dopo una lunga giornata di _hiking_.
 
 Pochi minuti prima che il sole tramontasse, una dolce pioggerellina autunnale era iniziata a scendere, creando un arcobaleno bellissimo. Appena fu del tutto buio, io ed i miei amici ci fiondammo dentro la baita, tutti raccolti intorno al fuoco.
 
@@ -48,9 +48,9 @@ E noi tutti ad annuire sornioni.
 
 ### Il manifesto della hygge
 
-![Manifesto della hygge](/assets/images/manifesto.jpg)
+![Manifesto della hygge](/assets/images/manifesto.jpeg)
 
-Ecco sono i dieci punti cardine della _hygge_, tratti dal libro di Meik Wiking.
+Ecco i dieci punti cardine della _hygge_, tratti dal libro di Meik Wiking.
 
 ATMOSFERA: Parte fondamentale dell'_hygge_ è di sicuro l’atmosfera. Candele e luci soffuse e calde. Si dice la _hygge_ non sia completa senza candele, e per quel che mi riguarda sono d’accordo (se non ami le candele, o non puoi usarle in casa non preoccuparti, _hygge_ è anche libertà).
 

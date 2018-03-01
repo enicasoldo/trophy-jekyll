@@ -27,9 +27,9 @@ Questi fattori, insieme alla buona _governance_, rendono la Danimarca omogenea a
 
 ![](/assets/images/fireplace.jpg)
 
-A fare della Danimarca un “_unicuum_ della felicità” è un simpatico vocabolo coniato dai danesi stessi: **hygge**.
+A fare della Danimarca un “_unicuum_ della felicità” è un simpatico vocabolo coniato dai danesi stessi: _hygge_.
 Parliamo di una parola non letteralmente traducibile in altri idiomi che racchiude in sè un universo culturale.
-In inglese si è provato a tradurre hygge con _coziness_, e talora con _togetherness_. Ma hygge è questo e molto di più. È un modo semplice e unico di guardare alla vita che mi ha spalancato un mondo.
+In inglese si è provato a tradurre _hygge_ con _coziness_, e talora con _togetherness_. Ma hygge è questo e molto di più. È un modo semplice e unico di guardare alla vita che mi ha spalancato un mondo.
 La hygge è strettamente legata alla **felicità perseguita giorno per giorno** e alla gioia che si nasconde nelle piccole cose.
 
 ### Hygge come fare _network_
