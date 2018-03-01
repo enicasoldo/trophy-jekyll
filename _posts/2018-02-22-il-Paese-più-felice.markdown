@@ -8,7 +8,8 @@ image: /assets/images/paese-felice.jpg
 
 ---
 Circa un anno e mezzo fa decisi di trascorrere un weekend a **Copenhagen** dopo aver letto un pezzo dell’Huffington Post UK. L'articolo riprendeva la classifica del _World Happiness Report_ in cui  la Danimarca  veniva incoronata “Paese più felice del mondo”. Non il più ricco, il più industrializzato o istruito. Ma il più FELICE.
-Così parto per Copenhagen curiosa ed elettrizzata di conoscere il popolo che ha scoperto l’equazione della felicità. E lo faccio con le parole di Bobby Kennedy che mi ronzano in testa:
+
+Così, parto per Copenhagen curiosa ed elettrizzata di conoscere il popolo che ha scoperto l’equazione della felicità. E lo faccio con le parole di Bobby Kennedy che mi ronzano in testa:
 
 >“Il PIL non tiene conto della salute delle nostre famiglie, della qualità della loro educazione o della gioia dei momenti di svago. Non comprende la bellezza della poesia o la solidità dei valori familiari, l'intelligenza del nostro dibattere o l'onestà dei pubblici dipendenti.  Misura tutto, eccetto ciò che rende la vita degna di essere vissuta.”
 
