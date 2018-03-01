@@ -4,7 +4,7 @@ title: "Che cos'è la hygge?"
 date: 2018-02-23
 categories:
 description: "La hygge è un’esperienza, più che qualcosa di tangibile. C'è chi parla di **“piacevolezza dell’anima”**, e chi parla di _hygge_ dopo aver avuto una piacevole conversazione. _Hygge_ è tutto questo e molto di più"
-image: assets/images/cup-tea.jpg
+image: assets/images/hygge.jpg
 image-sm: https://picsum.photos/500/300?image=1003
 ---
 È difficile spiegare in poche parole che cosa sia **l’arte danese della _hygge_** (pronunciato hoo-ga). La _hygge_ è un’atmosfera di intimità, un _mood_, un’esperienza, più che qualcosa di tangibile (sebbene sia fatta di tante piccole cose materiali).
