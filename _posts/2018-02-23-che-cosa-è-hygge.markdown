@@ -58,7 +58,7 @@ PRESENZA: Ogni tanto impostate i vostri _smartphone_ su "modalità aereo". _Hygg
 
 ![Dolci dolci dolci](/assets/images/tea-time.jpg)
 
-PIACERE: I danesi amano i dolci in modo pazzesco. Mettete su il caffè e servitelo con pasticcini golosi.
+PIACERE: I danesi amano i dolci in modo esagerato. Mettete su il caffè e servitelo con pasticcini golosi.
 
 UGUAGLIANZA: Quando viviamo un momento _hyggelig_ in compagnia, è importante non creare differenze. Come dice Meik Wiking nel suo libro: "WE over ME", "Il NOI vince sull’IO". Sbarazzatevi dell’egocentrismo e puntate sul gruppo. Chi tende a prevaricare gli altri non è per nulla _hyggelig_.
 
