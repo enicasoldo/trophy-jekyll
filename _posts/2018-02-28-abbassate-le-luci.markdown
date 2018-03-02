@@ -96,6 +96,6 @@ Il termosifone posizionato proprio sotto alla finestra lo rende un angolo ideale
 Ma la cosa che più amo di questo spazio è il calore che emanano gli appartamenti di fronte al mio. Adoro sedermi ad osservare questo quadro che cambia continuamente: un mosaico di luci e persone che si muove con l’entrare e uscire di casa dei miei vicini.
 Infine, il mio angolo _hygge_ deve molto a PH: una lampada PH è, inftti, sistemata in modo tale da rendere lo spazio ancora più comfortevole.
 
-PILLOLA HYGGE: COME CREARE UNA LUGE HYGGELIG A CASA VOSTRA.  
+PILLOLE HYGGE: COME CREARE UNA LUGE HYGGELIG A CASA VOSTRA.  
 _Innanzitutto tirate fuori le candele più belle (ma non profumate), e ricordate di far arieggiare la stanza!
 In alternativa, potete servirvi dell'illuminazione elettrica: l’obiettivo è creare tante piccole grotte di luce intorno alla stanza. Utilizzare più lampade piccole è molto piỳ hyggelig di un grande lampadario al centro del soffitto._

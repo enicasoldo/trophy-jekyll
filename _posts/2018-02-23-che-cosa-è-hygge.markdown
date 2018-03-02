@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Che cos'è la hygge?"
-date: 2018-02-23
+date: 2018-02-25
 categories:
 description: "La hygge è un’esperienza, più che qualcosa di tangibile. C'è chi parla di **“piacevolezza dell’anima”**, e chi parla di _hygge_ dopo aver avuto una piacevole conversazione. _Hygge_ è tutto questo e molto di più"
 image: /assets/images/hygge.jpg
