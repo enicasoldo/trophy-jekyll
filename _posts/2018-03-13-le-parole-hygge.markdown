@@ -3,7 +3,7 @@ layout: post
 title: "Le parole della hygge"
 date: 2018-03-09
 categories: Hygge
-description: "Ecco qui di seguito alcune espressioni amiche della _hygge_, che ci aiuteranno a familiarizzare con l'arte danese dellla felicità."
+description: "Ecco qui di seguito alcune espressioni amiche della hygge, che ci aiuteranno a familiarizzare con l'arte danese dellla felicità."
 image: /assets/images/paole.jpg
 image-sm:
 ---
