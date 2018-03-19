@@ -2,7 +2,7 @@
 layout: post
 title: "Abbassate le luci: è tempo di hygge"
 date: 2018-02-28
-categories:
+categories: Hygge
 description:
 image: /assets/images/candle-light.jpg
 image-sm:

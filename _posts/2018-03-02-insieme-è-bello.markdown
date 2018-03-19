@@ -2,7 +2,7 @@
 layout: post
 title: "Metti in circolo la hygge"
 date: 2018-03-02
-categories:
+categories: Hygge 
 description:
 image: /assets/images/insieme-cover.jpeg
 image-sm:
@@ -41,7 +41,7 @@ Tutto ciò  spiega come mai l’ospitalità sia tanto cara ai danesi e, soprattu
 
 ### Hygge per introversi  
 
-![](/assets/images/pochi-ma-buoni.jpg) 
+![](/assets/images/pochi-ma-buoni.jpg)
 
 
 

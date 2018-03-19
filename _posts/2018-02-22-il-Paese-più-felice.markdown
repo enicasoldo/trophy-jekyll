@@ -2,7 +2,7 @@
 layout: post
 title: "Il Paese più felice del mondo"
 date: 2018-02-22
-categories:
+categories: Hygge
 description: "Circa un anno e mezzo fa decisi di trascorrere un weekend a Copenhagen dopo aver letto un pezzo dell’Huffington Post UK. L'articolo riprendeva la classifica del World Happiness Report in cui  la Danimarca  veniva incoronata “Paese più felice del mondo”. Non il più ricco, il più industrializzato o istruito. Ma il più felice."
 
 image: /assets/images/paese-felice.jpg
