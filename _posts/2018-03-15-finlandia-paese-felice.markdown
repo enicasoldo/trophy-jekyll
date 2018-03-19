@@ -85,4 +85,4 @@ Ecco alcuni consigli pratici per iniziare:
 - RIVEDI LA TUA COMUNICAZIONE WEB. Al bando i fenomeni da tastiera tristi ed impersonali (per non dire spesso velenosi). Sbarazzati dell'anonimato e coltiva grazia, integrità e personalità.  
 
 
-Come ha osservato Meik Wiking dell'Happiness Research Institute di Copenhagen "Il voto più alto alla Finlandia è molto significativo. Il Pil pro capite in Finlandia è più basso rispetto ai Paesi nordici vicini ed è nettamente inferiore a quello degli USA. Tuttavia, i finlandesi sono bravi a convertire ricchezza in benessere e c'è molto consenso nel pagare le tasse, perché vengono percepite come un investimento nella qualità della vita di tutti".
+Come ha osservato Meik Wiking dell'Happiness Research Institute di Copenhagen "Il voto più alto alla Finlandia è molto significativo. Il Pil pro capite in Finlandia è più basso rispetto ai Paesi nordici vicini ed è nettamente inferiore a quello degli USA. Tuttavia, i finlandesi sono bravi a convertire la ricchezza in benessere e c'è molto consenso nel pagare le tasse, perché vengono percepite come un investimento nella qualità della vita di tutti".
