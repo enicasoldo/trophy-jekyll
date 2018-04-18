@@ -24,11 +24,13 @@ layout: default
   </header>
 
   <section class="section-padding bg-grey" itemprop="articleBody">
-    
+
     <div class="post">
       {{ content }}
     </div>
   </section>
+
+  <div class="fb-comments" data-href="{{ page.url | prepend: site.baseurl }}"></div>
 
   <section class="profile">
     <div class="profile__card">
@@ -50,7 +52,6 @@ layout: default
       </div>
     </div>
   </section>
-
 </article>
 
 {% if page.previous.url %}
