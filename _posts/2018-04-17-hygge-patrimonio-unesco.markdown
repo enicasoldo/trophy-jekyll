@@ -7,9 +7,9 @@ description:
 image: /assets/images/city.jpg
 image-sm:
 ---
-La Danimarca ha chiesto all'UNESCO che la _hygge_ possa diventare "patrimonio culturale immateriale" dell'umanità.
+La [Danimarca](https://viverefelici.life/2018/02/22/il-Paese-pi%C3%B9-felice/) ha chiesto all'UNESCO che la _hygge_ possa diventare "patrimonio culturale immateriale" dell'umanità.
 
-Devo ammetterlo, mi ha sorpreso il _tweet_ con cui Meik Wiking, fondatore e CEO dell' Happiness Research Institute di Copenhagen, annunciava la notizia. Ho sempre pensato che l'UNESCO tutelasse siti "fisici" del patrimonio culturale del pianeta, e non avevo idea che un concetto come la _hygge_ potesse figurare nell'elenco!
+Devo ammetterlo, mi ha sorpreso il _tweet_ con cui Meik Wiking, fondatore e CEO dell' Happiness Research Institute di Copenhagen, annunciava la notizia. Ho sempre pensato che l'UNESCO tutelasse siti "fisici" del patrimonio culturale del pianeta, e non avevo idea che un concetto come la [_hygge_](https://viverefelici.life/2018/02/25/che-cosa-%C3%A8-hygge/) potesse figurare nell'elenco!
 
 Scorrendo la lista degli attuali siti UNESCO, sembra proprio che la _hygge_ possa unirsi a patrimoni come i fiordi, castelli scozzesi,  mari e paesaggi di caccia. Vi consiglio di dare un'occhiata all' elenco completo: è un bel promemoria di tutte le cose belle che abbiamo sul nostro piccolo pianeta, e anche un modo di tenere a mente quanto le nostre azioni quotidiane possano contribuire a preservarlo.
 
