@@ -25,7 +25,7 @@ Troverai splendide foto di strade, quartieri e corsi d'acqua della capitale dane
 
 ### Hygge per la casa   
 
-![](/assets/images/hygge-home.png) 
+![](/assets/images/hygge-home.png)
 
 
 **Reena Simon** vive a Cardiff, Galles, ma la sua abilità nel creare interni "_hygge_" le ha fatto guadagnare un enorme seguito sui _social media_ (115.000 _follower_). Se vuoi donare alla tua casa un'atmosfera accogliente, troverai un sacco d'ispirazione nelle splendide foto della sua casa vittoriana, che ha accuratamente rinnovato e decorato con colori neutri, tessuti tattili e materiali rustici dalle vibrazioni scandinave. Su Instagram condivide tutte le novità sulla casa e sulla sua vita familiare, oltre a suggerimenti e consigli su come creare il proprio personale rifugio.
@@ -44,7 +44,7 @@ Il profilo Instagram di Trine Hahnemann è un tripudio di foto che stuzzicherann
 
 Se _Hygge_ vuole dire godere appieno dei momenti della vita quotidiana, il fotografo danese Morten Nordstrøm ne ha sicuramente colto lo spirito. Il suo _feed_ su Instagram è pieno di suggestivi scatti di Copenaghen che catturano l'_appeal_ della città in ogni condizione atmosferica, anche quando la pioggia si abbatte. Dalle immagini di villette a schiera colorate contro i canali innevati, ai bellissimi colori autunnali dei parchi pubblici, fino ai magnifici tramonti. Le foto di Nordstrøm racchiudono l'atmosfera unica di Copenaghen.
 
-### The Danish way  
+### La ricetta danese  
 
 
 La _Hygge_ è ben più di una moda passeggera per i danesi: è la filosofia che costituisce una parte fondamentale del loro infinito successo nelle classifiche mondiali della felicità, oltre che l'antidoto allo _stress_ della vita moderna.
