@@ -23,7 +23,9 @@ _Art director_ di giorno, **Simon Larsen** è anche un fotografo dilettante di g
 
 Troverai splendide foto di strade, quartieri e corsi d'acqua della capitale danese, così come scatti di ristoranti, bar e _interior design_ danese. Se seguirlo su Instagram non ti fa venire voglia di prenotare il prossimo volo per Copenaghen, nient'altro potrà farlo.
 
-### Hygge per la casa  
+### Hygge per la casa   
+
+![](/assets/images/hygge-home.png) 
 
 
 **Reena Simon** vive a Cardiff, Galles, ma la sua abilità nel creare interni "_hygge_" le ha fatto guadagnare un enorme seguito sui _social media_ (115.000 _follower_). Se vuoi donare alla tua casa un'atmosfera accogliente, troverai un sacco d'ispirazione nelle splendide foto della sua casa vittoriana, che ha accuratamente rinnovato e decorato con colori neutri, tessuti tattili e materiali rustici dalle vibrazioni scandinave. Su Instagram condivide tutte le novità sulla casa e sulla sua vita familiare, oltre a suggerimenti e consigli su come creare il proprio personale rifugio.
