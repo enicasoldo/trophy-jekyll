@@ -42,7 +42,8 @@ Il profilo Instagram di Trine Hahnemann è un tripudio di foto che stuzzicherann
 
 Se _Hygge_ vuole dire godere appieno dei momenti della vita quotidiana, il fotografo danese Morten Nordstrøm ne ha sicuramente colto lo spirito. Il suo _feed_ su Instagram è pieno di suggestivi scatti di Copenaghen che catturano l'_appeal_ della città in ogni condizione atmosferica, anche quando la pioggia si abbatte. Dalle immagini di villette a schiera colorate contro i canali innevati, ai bellissimi colori autunnali dei parchi pubblici, fino ai magnifici tramonti. Le foto di Nordstrøm racchiudono l'atmosfera unica di Copenaghen.
 
-### The Danish way   
+### The Danish way  
+
 
 La _Hygge_ è ben più di una moda passeggera per i danesi: è la filosofia che costituisce una parte fondamentale del loro infinito successo nelle classifiche mondiali della felicità, oltre che l'antidoto allo _stress_ della vita moderna.
 Una vacanza in città a Copenaghen saziarà la vostra voglia di viaggiare e soddisferà il vostro desiderio più fondamentale: vivere felici.
