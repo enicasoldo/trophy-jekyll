@@ -25,11 +25,12 @@ Troverai splendide foto di strade, quartieri e corsi d'acqua della capitale dane
 
 ### Hygge per la casa  
 
+
 **Reena Simon** vive a Cardiff, Galles, ma la sua abilità nel creare interni "_hygge_" le ha fatto guadagnare un enorme seguito sui _social media_ (115.000 _follower_). Se vuoi donare alla tua casa un'atmosfera accogliente, troverai un sacco d'ispirazione nelle splendide foto della sua casa vittoriana, che ha accuratamente rinnovato e decorato con colori neutri, tessuti tattili e materiali rustici dalle vibrazioni scandinave. Su Instagram condivide tutte le novità sulla casa e sulla sua vita familiare, oltre a suggerimenti e consigli su come creare il proprio personale rifugio.
 
 ### Trine Hahnemann
 
-[](/assets/images/food-blogger.png)
+![](/assets/images/food-blogger.png)
 
 
 _Chef_ e _food blogger_, Trine Hahnemann è anche proprietaria del "Hahnemanns Køkken København", ovvero panetteria, negozio, bar e scuola di cucina nel cuore di Copenaghen. Trine Hahnemann è un'esperta di cibo scandinavo moderno in particolare. Ha pubblicato numerosi libri di cucina tra i quali "Scandinavian Comfort Food: Embracing the Art of Hygge", in cui scrive: "La maggior parte del cibo può essere _hyggelig_ (piacevole)." E continua: "In estate, servi scampi alla griglia, pane e insalate mettendoli sul tavolo in grandi piatti da portata, questo è _Hygge_. Prepara cene invernali a base di pollo e rafano in casseruola. Non ci sono regole, lo senti subito quando un cibo non è _hyggeligt_. È quell'atmosfera rilassata in cui tutti sono a proprio agio con se stessi."
