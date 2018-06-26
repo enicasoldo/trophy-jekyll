@@ -2,7 +2,7 @@
 layout: post
 title: "Come vestirsi per essere felici"
 date: 2018-03-15
-categories: [hygge, moda]
+categories: [Hygge, Moda]
 description:
 image: /assets/images/casual.jpg
 image-sm:

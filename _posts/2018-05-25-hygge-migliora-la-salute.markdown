@@ -2,7 +2,7 @@
 layout: post
 title: "6 modi in cui la Hygge favorisce il tuo benessere"
 date: 2018-05-12
-categories: hygge
+categories: Hygge
 description:
 image: /assets/images/afternoon.jpg
 image-sm:

@@ -2,7 +2,7 @@
 layout: post
 title: "È ufficiale: la Hygge potrebbe diventare patrimonio UNESCO"
 date: 2018-03-15
-categories: hygge
+categories: Hygge
 description:
 image: /assets/images/city.jpg
 image-sm:
