@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://viverefelici.life/2018/05/12/hygge-influencer-instagram/</loc>
+<loc>https://viverefelici.life/2018/05/12/hygge-a-casa-in-estate/</loc>
+<lastmod>2018-05-12T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://viverefelici.life/2018/05/12/hygge-e-lavoro/</loc>
 <lastmod>2018-05-12T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -73,6 +77,12 @@
 </url>
 <url>
 <loc>https://viverefelici.life/category/moda/</loc>
+</url>
+<url>
+<loc>https://viverefelici.life/category/design/</loc>
+</url>
+<url>
+<loc>https://viverefelici.life/category/estate/</loc>
 </url>
 <url>
 <loc>https://viverefelici.life/blog/page-2/</loc>
