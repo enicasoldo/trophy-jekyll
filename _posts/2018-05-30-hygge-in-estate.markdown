@@ -5,7 +5,7 @@ date: 2018-05-12
 categories: [Hygge, Estate]
 description:
 image: /assets/images/shells.jpg
-image-sm:
+image-sm: /assets/images/shells.jpg
 ---
 Si sa, _Hygge_ e stagione invernale viaggiano in sintonia perfetta. Ma è possibile portare con se un pezzetto di _Hygge_ anche d'estate?
 
