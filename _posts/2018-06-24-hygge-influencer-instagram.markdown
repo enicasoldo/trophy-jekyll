@@ -17,7 +17,7 @@ Dunque, se vuoi dare un tocco _hygge_ alla tua vita, o semplicemente rilassarti 
 
 ### Simon Larsen  
 
-![](/assets/images/simon-larsen.png)
+https://www.instagram.com/p/BjP70oSHoAe/?hl=it&taken-by=simonlarsen
 
 _Art director_ di giorno, **Simon Larsen** è anche un fotografo dilettante di grande talento le cui splendide foto di Copenaghen (e non solo) gli hanno fatto guadagnare oltre 28.000 _follower_.
 
@@ -25,14 +25,14 @@ Troverai splendide foto di strade, quartieri e corsi d'acqua della capitale dane
 
 ### Hygge per la casa   
 
-![](/assets/images/hygge-home.png)
+https://www.instagram.com/p/BhmjgaqBedz/?hl=it&taken-by=hygge_for_home
 
 
 **Reena Simon** vive a Cardiff, Galles, ma la sua abilità nel creare interni "_hygge_" le ha fatto guadagnare un enorme seguito sui _social media_ (115.000 _follower_). Se vuoi donare alla tua casa un'atmosfera accogliente, troverai un sacco d'ispirazione nelle splendide foto della sua casa vittoriana, che ha accuratamente rinnovato e decorato con colori neutri, tessuti tattili e materiali rustici dalle vibrazioni scandinave. Su Instagram condivide tutte le novità sulla casa e sulla sua vita familiare, oltre a suggerimenti e consigli su come creare il proprio personale rifugio.
 
 ### Trine Hahnemann
 
-![](/assets/images/food-blogger.png)
+https://www.instagram.com/p/BeNaJfNBtri/?hl=it&taken-by=trinehahnemann
 
 
 _Chef_ e _food blogger_, Trine Hahnemann è anche proprietaria del "Hahnemanns Køkken København", ovvero panetteria, negozio, bar e scuola di cucina nel cuore di Copenaghen. Trine Hahnemann è un'esperta di cibo scandinavo moderno in particolare. Ha pubblicato numerosi libri di cucina tra i quali "Scandinavian Comfort Food: Embracing the Art of Hygge", in cui scrive: "La maggior parte del cibo può essere _hyggelig_ (piacevole)." E continua: "In estate, servi scampi alla griglia, pane e insalate mettendoli sul tavolo in grandi piatti da portata, questo è _Hygge_. Prepara cene invernali a base di pollo e rafano in casseruola. Non ci sono regole, lo senti subito quando un cibo non è _hyggeligt_. È quell'atmosfera rilassata in cui tutti sono a proprio agio con se stessi."
@@ -40,7 +40,7 @@ Il profilo Instagram di Trine Hahnemann è un tripudio di foto che stuzzicherann
 
 ### Morten Nordstrøm  
 
-![](/assets/images/neve.png)  
+https://www.instagram.com/p/Bf3nClOno3F/?hl=it&taken-by=mortenordstrom
 
 Se _Hygge_ vuole dire godere appieno dei momenti della vita quotidiana, il fotografo danese Morten Nordstrøm ne ha sicuramente colto lo spirito. Il suo _feed_ su Instagram è pieno di suggestivi scatti di Copenaghen che catturano l'_appeal_ della città in ogni condizione atmosferica, anche quando la pioggia si abbatte. Dalle immagini di villette a schiera colorate contro i canali innevati, ai bellissimi colori autunnali dei parchi pubblici, fino ai magnifici tramonti. Le foto di Nordstrøm racchiudono l'atmosfera unica di Copenaghen.
 

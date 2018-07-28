@@ -14,12 +14,6 @@ Non sono un'esperta di _Hygge_ al mare - soprattutto dal momento che sono italia
 
 ### Parola d'ordine: organizzazione  
 
-     
-
-
-
-
-
 Fai una lista delle cose che vorresti portare focalizzandoti sull'essenziale.
 Conosci la spiaggia che stai per raggiungere? Una spiaggia in città con comoda area commerciale è una valida e comfortevole alternativa al picnic in spiaggia. Tuttavia, una spiaggetta poco affollata con chioschetto che serve del buon caffè è senza dubbio un'opzione molto più _hyggellig_, e alleggerirà comunque la tua borsa da bevande e _snack_.    
 
