@@ -2,7 +2,7 @@
 layout: post
 title: "10 cose che renderanno la tua casa più hyggellig"
 date: 2018-05-12
-categories: Hygge
+categories: [Hygge, Design]
 description:
 image: /assets/images/casa-hygge.jpg
 image-sm:

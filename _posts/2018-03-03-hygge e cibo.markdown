@@ -2,7 +2,7 @@
 layout: post
 title: "La hygge è roba per golosi"
 date: 2018-03-09
-categories: [Hygge, Ricette]
+categories: [Hygge, Food]
 description:
 image: /assets/images/candies.jpg
 image-sm:

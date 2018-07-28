@@ -2,7 +2,7 @@
 layout: post
 title: "È possibile la Hygge d'estate?"
 date: 2018-05-12
-categories: Hygge
+categories: [Hygge, Estate]
 description:
 image: /assets/images/sea.jpg
 image-sm:
