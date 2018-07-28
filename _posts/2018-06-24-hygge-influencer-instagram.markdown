@@ -4,7 +4,7 @@ title: "4 influencer hyggeligt da seguire su Instagram"
 date: 2018-05-12
 categories: Hygge
 description:
-image: /assets/images/copenhagen.jpg
+image: /assets/images/delicious.jpg
 image-sm:
 ---
 Se c'è un merito che va riconosciuto all'esplosione dei _social media_ nell'ultimo decennio, è quello di aver permesso a qualsiasi ragazza di provincia di trovare ispirazione e sogni tra gli scatti di Instagram.
