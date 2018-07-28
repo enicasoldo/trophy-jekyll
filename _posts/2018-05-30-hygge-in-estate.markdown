@@ -3,7 +3,7 @@ layout: post
 title: "È possibile la Hygge d'estate?"
 date: 2018-05-12
 categories: [Hygge, Estate]
-description:
+description: "Si sa, Hygge e stagione invernale viaggiano in sintonia perfetta. Ma è possibile portare con se un pezzetto di _Hygge_ anche d'estate?"
 image: /assets/images/shells.jpg
 image-sm: /assets/images/shells.jpg
 ---
