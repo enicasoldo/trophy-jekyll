@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "La hygge è roba per golosi"
+title: "La Hygge è roba per golosi"
 date: 2018-03-09
-categories: [Hygge, Food]
+categories: [Hygge, Cibo]
 description:
-image: /assets/images/candies.jpg
+image: /assets/images/lollie.jpg
 image-sm:
 ---
 In Danimarca, il largo consumo di caffè e dolciumi è direttamente connesso alla _hygge_.  

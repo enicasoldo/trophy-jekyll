@@ -2,7 +2,7 @@
 layout: post
 title: "Come creare la Hygge a casa d'estate"
 date: 2018-05-12
-categories: [Hygge, Design, Estate]
+categories: [Hygge, Interni, Estate]
 description:
 image: /assets/images/estate.jpg
 image-sm:
