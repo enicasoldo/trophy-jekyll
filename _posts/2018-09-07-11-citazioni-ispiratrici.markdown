@@ -20,26 +20,26 @@ Quindi, pensa alla seguente lista di citazioni come ad un tuo personale coro di 
 
 Perchè è oggi che porterai a termine quell'incarico a cui lavori da una settimana. Oggi chiuderai quel conttratto difficile. Oggi passerai dall'essere un buon professionista del tuo settore ad un professionista straordinario.
 
-1. "Le persone spesso dicono che la motivazione non dura. Beh, neanche farsi la doccia ... ecco perchè consigliamo di farla quotidianamente" - Zig Ziglar
+ _Le persone spesso dicono che la motivazione non dura. Beh, neanche farsi la doccia ... ecco perchè consigliamo di farla quotidianamente - Zig Ziglar_
 
-2. "Il nostro tempo è limitato, non sprecatelo vivendo la vita di qualcun altro." - Steve Jobs
+ _Il nostro tempo è limitato, non sprecatelo vivendo la vita di qualcun altro. - Steve Jobs_
 
-3. "Abbandona la tua zona di _comfort_. Puoi crescere solo se sei disposto a sentirti scomodo mentre ti lanci in nuove sfide" - Brian Tracy
+_Abbandona la tua zona di comfort. Puoi crescere solo se sei disposto a sentirti scomodo mentre ti lanci in nuove sfide - Brian Tracy_
 
-4. “Spesso il successo è raggiunto da coloro che non sanno quanto il fallimento sia inevitabile” - Coco Chanel
+_Spesso il successo è raggiunto da coloro che non sanno quanto il fallimento sia inevitabile - Coco Chanel_
 
-5. "Fai tesoro degli errori. Tutti commettiamo errori. Sii dispiaciuto, chiedi scusa, e poi fai meglio." - Dharmesh Shah
+_Fai tesoro degli errori. Tutti commettiamo errori. Chiedi scusa, poi fai meglio. - Dharmesh Shah_
 
-6. "Non abbiamo bisogno della magia per cambiare il mondo, abbiamo già tutto il potere di cui abbiamo bisogno dentro di noi: il potere di immaginare meglio ” - J.K. Rowling
+_Non abbiamo bisogno della magia per cambiare il mondo, abbiamo già tutto il potere di cui abbiamo bisogno dentro di noi: il potere di immaginare meglio - J.K. Rowling_
 
-7. “Volgi sempre lo sguardo al sole, cosicchè non potrai vedere le ombre” - Helen Keller
+_Volgi sempre lo sguardo al sole, cosicchè non potrai vedere le ombre - Helen Keller_
 
-8. “La più grande scoperta di tutti i tempi è che una persona possa cambiare il suo futuro semplicemente cambiando il suo atteggiamento” - Oprah Winfrey
+_La più grande scoperta di tutti i tempi è che una persona possa cambiare il suo futuro semplicemente cambiando il suo atteggiamento - Oprah Winfrey_
 
-9. “Preferirei morire di passione piuttosto che di noia.” -Vincent van Gogh
+_Preferirei morire di passione piuttosto che di noia. - Vincent van Gogh_
 
-10. “La cosa più difficile è decidere di agire, il resto è solo tenacia” - Amelia Earhart.
+_La cosa più difficile è decidere di agire, il resto è solo tenacia” - Amelia Earhart_
 
-Ho deciso di non tradurre l'undicesima ed ultims citazione in quanto, per sua stessa formulazione, ha senso solo in lingua inglese:
+Ho deciso di non tradurre l'undicesima ed ultima citazione in quanto, per sua stessa formulazione, ha senso solo in lingua originale:
 
-11. “Nothing is impossible, the word itself says, ‘I’m possible!’” - Audrey Hepburn
+_Nothing is impossible, the word itself says, ‘I’m possible!’ - Audrey Hepburn_
