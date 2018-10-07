@@ -20,25 +20,26 @@ Quindi, pensa alla seguente lista di citazioni come ad un tuo personale coro di 
 
 Perchè è oggi che porterai a termine quell'incarico a cui lavori da una settimana. Oggi chiuderai quel conttratto difficile. Oggi passerai dall'essere un buon professionista del tuo settore ad un professionista straordinario.
 
-"People often say that motivation doesn't last. Well, neither does bathing... that's why we recommend it
-daily" - Zig Ziglar
+1. "Le persone spesso dicono che la motivazione non dura. Beh, neanche farsi la doccia ... ecco perchè consigliamo di farla quotidianamente" - Zig Ziglar
 
-"Your time is limited, so don't waste it living someone else's life." - Steve Jobs
+2. "Il nostro tempo è limitato, non sprecatelo vivendo la vita di qualcun altro." - Steve Jobs
 
-Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." - Brian Tracy
+3. "Abbandona la tua zona di _comfort_. Puoi crescere solo se sei disposto a sentirti scomodo mentre ti lanci in nuove sfide" - Brian Tracy
 
-“Success is often achieved by those who don’t know that failure is inevitable.” - Coco Chanel
+4. “Spesso il successo è raggiunto da coloro che non sanno quanto il fallimento sia inevitabile” - Coco Chanel
 
-"Own your screw ups. We all make mistakes. Just say sorry, be sorry, and make it better." - Dharmesh Shah
+5. "Fai tesoro degli errori. Tutti commettiamo errori. Sii dispiaciuto, chiedi scusa, e poi fai meglio." - Dharmesh Shah
 
-We do not need magic to change the world, we carry all the power we need inside ourselves already: we have the power to imagine better” - J.K. Rowling
+6. "Non abbiamo bisogno della magia per cambiare il mondo, abbiamo già tutto il potere di cui abbiamo bisogno dentro di noi: il potere di immaginare meglio ” - J.K. Rowling
 
-“Keep your face to the sunshine and you cannot see a shadow” - Helen Keller
+7. “Volgi sempre lo sguardo al sole, cosicchè non potrai vedere le ombre” - Helen Keller
 
-“The greatest discovery of all time is that a person can change his future by merely changing his attitude” - Oprah Winfrey
+8. “La più grande scoperta di tutti i tempi è che una persona possa cambiare il suo futuro semplicemente cambiando il suo atteggiamento” - Oprah Winfrey
 
-“I would rather die of passion than of boredom.” -Vincent van Gogh
+9. “Preferirei morire di passione piuttosto che di noia.” -Vincent van Gogh
 
-“The most difficult thing is the decision to act, the rest is merely tenacity” - Amelia Earhart.
+10. “La cosa più difficile è decidere di agire, il resto è solo tenacia” - Amelia Earhart.
 
-“Nothing is impossible, the word itself says, ‘I’m possible!’” - Audrey Hepburn
+Ho deciso di non tradurre l'undicesima ed ultims citazione in quanto, per sua stessa formulazione, ha senso solo in lingua inglese:
+
+11. “Nothing is impossible, the word itself says, ‘I’m possible!’” - Audrey Hepburn
